@@ -1,6 +1,6 @@
-names=[]
-names[3]= 1
-names[0]= 5
-names[1]= 3
-names[2]= 8
-puts names
+number=[]
+number[3]= 1
+number[0]= 5
+number[1]= 3
+number[2]= 8
+puts number
